@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f4195ae-08ed-428e-b302-b2bb4fcc869c" name="Default" comment="" />
+    <list default="true" id="4f4195ae-08ed-428e-b302-b2bb4fcc869c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/0013_roman_to_integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="0009_palindrome_number.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="0009_palindrome_number.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/0009_palindrome_number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="403">
+              <caret line="47" lean-forward="true" selection-start-line="43" selection-end-line="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0013_roman_to_integer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/0013_roman_to_integer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
             </state>
           </provider>
         </entry>
@@ -47,12 +60,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/easy/0001_two_sum.py" />
         <option value="$PROJECT_DIR$/easy/0007_reverse_integer.py" />
         <option value="$PROJECT_DIR$/easy/0009_palindrome_number.py" />
+        <option value="$PROJECT_DIR$/easy/0013_roman_to_integer.py" />
       </list>
     </option>
   </component>
@@ -62,6 +79,7 @@
     <option name="width" value="1400" />
     <option name="height" value="962" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -98,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.0009_palindrome_number">
+  <component name="RunManager" selected="Python.0013_roman_to_integer">
     <configuration name="0001_two_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,13 +171,33 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="0013_roman_to_integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/0013_roman_to_integer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.0001_two_sum" />
       <item itemvalue="Python.0007_reverse_integer" />
       <item itemvalue="Python.0009_palindrome_number" />
+      <item itemvalue="Python.0013_roman_to_integer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.0013_roman_to_integer" />
         <item itemvalue="Python.0009_palindrome_number" />
         <item itemvalue="Python.0007_reverse_integer" />
         <item itemvalue="Python.0001_two_sum" />
@@ -187,7 +225,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32914287" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
@@ -222,8 +260,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/0009_palindrome_number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="403">
+          <caret line="47" lean-forward="true" selection-start-line="43" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/0013_roman_to_integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
     </entry>
